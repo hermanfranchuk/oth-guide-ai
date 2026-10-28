@@ -1,0 +1,3 @@
+# OTH Guide AI - Application Logs
+# This file stores application events, activated skills, loaded resources, chat operations, warnings and errors
+# Saved conversations can be found in backend/chat_history.json

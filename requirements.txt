@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+rapidfuzz
+urllib3
+flask
+flask-cors

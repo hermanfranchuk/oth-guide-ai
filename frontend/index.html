@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OTH Guide AI</title>
+
+    <!-- styles -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- whole page class -->
+<div class="app">
+
+    <!-- sidebar with chat history -->
+    <aside class="sidebar" id="sidebar">
+
+        <!-- top bar -->
+        <div class="sidebar-top">
+
+            <!-- toggle button -->
+            <button class="icon-button" id="sidebarToggle">
+                <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
+                    <path d="M4 6h16M4 12h16M4 18h16"></path>
+                </svg>
+            </button>
+
+            <!-- bot name -->
+            <h2 class="sidebar-title">OTH Guide AI</h2>
+        </div>
+
+        <!-- new chat button -->
+        <button class="new-chat-button">
+            <span class="new-chat-icon">
+                <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
+                    <path d="M12 20h9"></path>
+                    <path d="M16.5 3.5a2.1 2.1 0 0 1 3 3L7 19l-4 1 1-4Z"></path>
+                </svg>
+            </span>
+            <span class="new-chat-text">New chat</span>
+        </button>
+
+        <!-- list with all chats -->
+        <div class="chat-list">
+            <p class="chat-list-title">Chats</p>
+            <div class="chat-items" id="chatItems"></div>
+        </div>
+    </aside>
+
+    <!-- current chat -->
+    <main class="main-content" id="mainContent">
+
+        <!-- top bar -->
+        <div class="top-bar">
+
+            <!-- chat title -->
+            <h2 class="current-chat-title" id="currentChatTitle">New chat</h2>
+
+            <!-- mock settings button and user profile button -->
+            <div class="top-actions">
+                <button class="top-icon-button">
+                    <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
+                        <path d="M4 6h10"></path>
+                        <path d="M18 6h2"></path>
+                        <path d="M16 4v4"></path>
+                        <path d="M4 12h2"></path>
+                        <path d="M10 12h10"></path>
+                        <path d="M8 10v4"></path>
+                        <path d="M4 18h10"></path>
+                        <path d="M18 18h2"></path>
+                        <path d="M16 16v4"></path>
+                    </svg>
+                </button>
+                <div class="user-circle"></div>
+            </div>
+        </div>
+
+        <!-- welcome text -->
+        <section class="welcome-section" id="welcomeSection">
+            <h1>OTH Guide AI</h1>
+        </section>
+
+        <!-- all messages -->
+        <section class="chat-section" id="chatSection">
+            <div class="messages" id="messages"></div>
+        </section>
+
+        <!-- input area for user message with send button -->
+        <div class="input-area" id="inputArea">
+            <div class="input-box">
+                <textarea id="messageInput" placeholder="How can I help you with OTH Regensburg today?"></textarea>
+                <button class="send-button" id="sendButton">
+                    <svg class="send-icon" viewBox="0 0 24 24" aria-hidden="true">
+                        <path d="M12 19V5"></path>
+                        <path d="M5 12l7-7 7 7"></path>
+                    </svg>
+                </button>
+            </div>
+        </div>
+
+    </main>
+
+</div>
+
+<!-- scripts -->
+<script src="index.js"></script>
+</body>
+</html>

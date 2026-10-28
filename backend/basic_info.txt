@@ -1,0 +1,17 @@
+Basic information about OTH Regensburg
+
+Official name: Ostbayerische Technische Hochschule Regensburg, abbreviated OTH Regensburg. It is a university of applied sciences in Regensburg, Bavaria, Germany. Main contact address: Seybothstraße 2, 93053 Regensburg. Main campus address frequently used on official pages: Galgenbergstraße 32, 93053 Regensburg.
+
+Key facts: OTH Regensburg states that it has 2 campuses, 8 faculties, 148 laboratories, 11,134 students as of winter semester 2025/2026, and 1,048 employees as of 26.03.2026. The university website also lists 37 bachelor’s degree programmes, 23 master’s degree programmes, 6 part-time bachelor’s degree programmes, and 4 continuing-education master’s degree programmes.
+
+Foundation and history: The institution was founded in 1971 as Regensburg University of Applied Sciences. It later became OTH Regensburg.
+
+Faculties: Faculty of Applied Natural Sciences and Cultural Studies. Faculty of Architecture. Faculty of Civil Engineering. Faculty of Business and Management. Faculty of Electrical Engineering and Information Technology. Faculty of Computer Science and Mathematics. Faculty of Mechanical Engineering. Faculty of Social and Health Care Sciences.
+
+Main building and faculty mapping from the official building overview: Building K = Faculty of Computer Science and Mathematics. Building L = Faculty of Architecture. Buildings H and J = Faculty of Civil Engineering. Building S = Faculty of Business and Management, Faculty of Electrical Engineering and Information Technology, and Faculty of Social and Health Care Sciences. Buildings A, B, and C = Faculty of Mechanical Engineering. Buildings D, G, H, I, T, and U = Faculty of Applied Natural Sciences and Cultural Studies. Building R = Library. Building V = University management and administration. The official site for locations and room plans explicitly states that Building K is the Faculty of Computer Science and Mathematics and Building L is the Faculty of Architecture.
+
+Semester periods: Winter semester runs from October 1 to March 14. Summer semester runs from March 15 to September 30. More detailed dates for lecture periods, lecture-free periods, examinations, and registration deadlines are published in the official semester calendar and dates/opening-hours pages.
+
+Facilities and services mentioned on official pages: library in Building R, laboratories, university sports offers, student services, international office, examination office, and central administration. The university has official locations and room-plan pages and an official dates-and-opening-hours page for semester deadlines and service times.
+
+Notes for answering questions: Use this file only for general and mostly static information. For detailed or changing information such as current semester deadlines, exam registration dates, room schedules, faculty office opening hours, or the mensa plan, use the appropriate dynamic skill or the official current webpage or API instead of relying only on this file.
